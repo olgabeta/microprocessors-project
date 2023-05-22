@@ -1,4 +1,4 @@
-# Term project in MICROPROCESSORS uni course
+# Microprocessors project
 
 This project includes two tasks:
 1. Implementations of 5-stage and 6-stage RISC pipelines
